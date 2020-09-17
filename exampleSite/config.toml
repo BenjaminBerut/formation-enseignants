@@ -13,14 +13,14 @@ name = "A propos"
 weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+author = "e-inspe"
 copyright = "Copyright &copy; 2020"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Accueil"
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#2E2542"
 [params.contact]
 enable = true
