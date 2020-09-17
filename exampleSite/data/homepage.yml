@@ -69,7 +69,7 @@ service:
     icon: 'ti-wand '
     content: Trouvez la formation qui vous convient. Avec d’autres enseignants, seul
       avec votre mobile, en 10 minutes ou sur 1 an.
-    highlighted: false
+    highlighted: true
   - title: Suivez votre progression
     icon: ti-vector
     content: Découvrez votre parcours, suivez le pas à pas... et changez-le selon
