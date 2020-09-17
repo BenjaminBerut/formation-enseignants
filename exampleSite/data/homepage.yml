@@ -14,7 +14,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
@@ -63,12 +63,12 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: L’offre de formations
   item:
-  - title: UI Design
+  - title: Une autonomie de formation
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Trouvez la formation qui vous convient. Avec d’autres enseignants, seul
+      avec votre mobile, en 10 minutes ou sur 1 an.
     highlighted: false
   - title: UX Design
     icon: ti-vector
