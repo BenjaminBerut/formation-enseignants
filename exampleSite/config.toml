@@ -1,4 +1,4 @@
-baseURL = "krosskross.netlify.app"
+baseURL = "https://krosskross.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
