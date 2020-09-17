@@ -66,7 +66,7 @@ service:
   title: L’offre de formations
   item:
   - title: Une autonomie de formation
-    icon: " ti-bolt "
+    icon: " ti-wand"
     content: Trouvez la formation qui vous convient. Avec d’autres enseignants, seul
       avec votre mobile, en 10 minutes ou sur 1 an.
     highlighted: false
