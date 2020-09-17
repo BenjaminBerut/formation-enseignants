@@ -70,10 +70,10 @@ service:
     content: Trouvez la formation qui vous convient. Avec d’autres enseignants, seul
       avec votre mobile, en 10 minutes ou sur 1 an.
     highlighted: false
-  - title: UX Design
+  - title: Suivez votre progression
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Découvrez votre parcours, suivez le pas à pas... et changez-le selon
+      vos envies.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
