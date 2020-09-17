@@ -2,7 +2,7 @@ baseURL = "https://krosskross.netlify.app"
 languageCode = "fr-FR"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "e-inspe"
 [[menu.main]]
 URL = "about"
 name = "About"
