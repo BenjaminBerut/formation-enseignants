@@ -75,10 +75,9 @@ service:
     content: Découvrez votre parcours, suivez le pas à pas... et changez-le selon
       vos envies.
     highlighted: true
-  - title: Interaction Design
+  - title: De quoi faire progresser vos élèves
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Apprenez-leur à apprendre, personnalisez vos cours.
     highlighted: false
 portfolio:
   enable: false
