@@ -114,7 +114,7 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: image/clients-logo/etreprof.png
+  - logo: images/clients-logo/etreprof.png
     URL: ''
   - logo: images/clients-logo/clemi.png
     URL: ''
