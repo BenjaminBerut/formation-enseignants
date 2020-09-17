@@ -19,7 +19,7 @@ description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analytics_id = ""
 home = "Accueil"
-logo = ""
+logo = "image"
 phone = ""
 theme_color = "#2E2542"
 [params.contact]
@@ -50,9 +50,6 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif"
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
