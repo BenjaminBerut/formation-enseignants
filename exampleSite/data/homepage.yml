@@ -114,15 +114,17 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
+  - logo: image/clients-logo/etreprof.png
+    URL: ''
+  - logo: images/clients-logo/clemi.png
+    URL: ''
+  - logo: images/clients-logo/edubase.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
+  - logo: images/clients-logo/eduscol.png
     URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
+  - logo: images/clients-logo/lumni.png
     URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
+  - logo: images/clients-logo/magistere.png
     URL: http://examplesite.com
 blog:
   enable: false
