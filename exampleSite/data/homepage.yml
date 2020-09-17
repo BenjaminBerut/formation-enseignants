@@ -76,7 +76,7 @@ service:
       vos envies.
     highlighted: true
   - title: De quoi faire progresser vos élèves
-    icon: ti-volume
+    icon: " ti-bar-chart"
     content: Apprenez-leur à apprendre, personnalisez vos cours.
     highlighted: false
 portfolio:
