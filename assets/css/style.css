@@ -6,8 +6,8 @@ VERSION: Versoin Number
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
 
 @font-face {
-  font-family: archive;
-  src: url(../fonts/archive.otf) format("otf");
+  font-family: bwnistaint-xbd;
+  src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
   font-style: normal;
   font-display: swap
 }
@@ -41,27 +41,27 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 60px
+  font-size: 42px
 }
 
 @media(max-width:991px) {
 
   h1,
   .h1 {
-    font-size: 65px
+    font-size: 38px
   }
 }
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 32px
 }
 
 @media(max-width:991px) {
 
   h2,
   .h2 {
-    font-size: 50px
+    font-size: 30px
   }
 }
 
