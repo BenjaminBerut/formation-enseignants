@@ -46,27 +46,6 @@
   </section>
   <!-- /hero area -->
 
-  {{ if site.Data.homepage.about.enable }}
-  <!-- about -->
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-10 mx-auto text-center">
-          {{ with site.Data.homepage.about }}
-          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
-          {{ end }}
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- /about -->
-  {{ end }}
-
 
   {{ if site.Data.homepage.skill.enable }}
   {{ with site.Data.homepage.skill }}
@@ -244,6 +223,27 @@
   </section>
   <!-- /testimonial -->
   {{ end }}
+  {{ end }}
+
+  {{ if site.Data.homepage.about.enable }}
+  <!-- about -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 mx-auto text-center">
+          {{ with site.Data.homepage.about }}
+          <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
+          {{ end }}
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /about -->
   {{ end }}
 
 

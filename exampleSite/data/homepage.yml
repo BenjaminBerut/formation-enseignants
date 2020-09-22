@@ -1,14 +1,10 @@
 ---
 banner:
-  title: Les meilleures formations pour les enseignants,<br>selon vos besoins, <br>selon
-    vos envies !
+  title: Les meilleures formation s<br>pour les enseignants,<br>selon vos besoins, <br>selon vos envies !
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: L’e-inspé vous propose des formations issues de toute une série de partenaires et de sites que ce soit de l’Éducation nationale ou d’associations. Les parcours de formation que vous trouverez ici vont chercher dans tout un ensemble de contenus de partenaires pour vous assurer la formation la plus adaptée à votre besoin.
+
   button:
     enable: true
     label: know more
@@ -119,13 +115,13 @@ clients_logo_slider:
   - logo: images/clients-logo/clemi.png
     URL: ''
   - logo: images/clients-logo/edubase.png
-    URL: "#"
+    URL: ""
   - logo: images/clients-logo/eduscol.png
     URL: http://examplesite.com
   - logo: images/clients-logo/lumni.png
-    URL: "#"
+    URL: ""
   - logo: images/clients-logo/magistere.png
-    URL: http://examplesite.com
+    URL: ""
 blog:
   enable: false
   title: Blogs
