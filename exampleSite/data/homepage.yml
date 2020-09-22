@@ -1,10 +1,13 @@
 ---
 banner:
-  title: Les meilleures formations <br>pour les enseignants,<br>selon vos besoins, <br>selon vos envies !
+  title: Les meilleures formations <br>pour les enseignants,<br>selon vos besoins,
+    <br>selon vos envies !
 about:
   enable: true
-  content: L’e-inspé vous propose des formations issues de toute une série de partenaires et de sites que ce soit de l’Éducation nationale ou d’associations. Les parcours de formation que vous trouverez ici vont chercher dans tout un ensemble de contenus de partenaires pour vous assurer la formation la plus adaptée à votre besoin.
-
+  content: L’e-inspé vous propose des formations issues de toute une série de partenaires
+    et de sites que ce soit de l’Éducation nationale ou d’associations. Les parcours
+    de formation que vous trouverez ici vont chercher dans tout un ensemble de contenus
+    de partenaires pour vous assurer la formation la plus adaptée à votre besoin.
   button:
     enable: true
     label: A propos
@@ -80,7 +83,7 @@ portfolio:
   title: Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
@@ -115,13 +118,13 @@ clients_logo_slider:
   - logo: images/clients-logo/clemi.png
     URL: ''
   - logo: images/clients-logo/edubase.png
-    URL: ""
+    URL: ''
   - logo: images/clients-logo/eduscol.png
     URL: http://examplesite.com
   - logo: images/clients-logo/lumni.png
-    URL: ""
+    URL: ''
   - logo: images/clients-logo/magistere.png
-    URL: ""
+    URL: ''
 blog:
   enable: false
   title: Blogs
