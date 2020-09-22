@@ -5,7 +5,7 @@ theme = "kross-hugo"
 title = "e-inspe"
 [[menu.main]]
 URL = "contact"
-name = "Je participe"
+name = "Contact"
 weight = 1
 [params]
 address = ""

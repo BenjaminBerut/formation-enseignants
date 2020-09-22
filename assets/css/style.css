@@ -422,7 +422,7 @@ textarea.form-control {
 }
 
 .navigation {
-  padding: 0px;
+  padding: 40px 130px;
   transition: .3s ease
 }
 
@@ -439,7 +439,7 @@ textarea.form-control {
 
 @media(max-width:991px) {
   .navigation {
-    padding: 0px;
+    padding: 20px;
     background: var(--primary-color)
   }
 }
@@ -452,10 +452,6 @@ textarea.form-control {
 
 .navbar .nav-item.active .nav-link{
   color: #52f8f4;
-}
-
-.navbar .nav-item-cta{
-  color: pink;
 }
 
 .navbar-dark .navbar-nav .nav-link {
