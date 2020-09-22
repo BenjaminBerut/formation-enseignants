@@ -6,10 +6,6 @@ title = "e-inspe"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
-[[menu.main]]
-URL = "about"
-name = "A propos"
 weight = 1
 [params]
 address = ""
