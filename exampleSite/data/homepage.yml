@@ -1,13 +1,13 @@
 ---
 banner:
-  title: Les meilleures formation s<br>pour les enseignants,<br>selon vos besoins, <br>selon vos envies !
+  title: Les meilleures formations <br>pour les enseignants,<br>selon vos besoins, <br>selon vos envies !
 about:
   enable: true
   content: L’e-inspé vous propose des formations issues de toute une série de partenaires et de sites que ce soit de l’Éducation nationale ou d’associations. Les parcours de formation que vous trouverez ici vont chercher dans tout un ensemble de contenus de partenaires pour vous assurer la formation la plus adaptée à votre besoin.
 
   button:
     enable: true
-    label: know more
+    label: A propos
     URL: about
 skill:
   enable: false

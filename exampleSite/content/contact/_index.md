@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-description: "This is meta description."
+description: "Rejoignez-nous et trouvez votre formation"
 draft: false
 ---
