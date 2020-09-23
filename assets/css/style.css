@@ -439,7 +439,7 @@ textarea.form-control {
 
 @media(max-width:991px) {
   .navigation {
-    padding: 20px;
+    padding: 0px;
     background: var(--primary-color)
   }
 }
@@ -491,8 +491,8 @@ textarea.form-control {
 }
 
 #l3 {
-  top: 100px;
-  left: 60%
+  top: 150px;
+  left: 62%
 }
 
 #l4 {
@@ -928,18 +928,17 @@ blockquote {
 }
 
 .cta-animated {
-  animation: moveInBottom 5s ease-out;
+  animation: moveInBottom 2s ease-out;
   animation-fill-mode: backwards;
 }
 
 @keyframes moveInBottom {
   0% {
       opacity: 0;
-      transform: translateY(30px);
+      transform: scale(1.2);
   }
-
   100% {
       opacity: 1;
-      transform: translateY(0px);
+      transform: scale(1);
   }
 }
