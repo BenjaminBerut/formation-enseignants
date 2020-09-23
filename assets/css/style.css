@@ -916,11 +916,6 @@ blockquote {
   margin-bottom: 0;
 }
 
-.cta:hover {
-  transform: transform: scale(1.2);;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
 .cta {
   background-color: #fff;
   color: #777 !important;
@@ -929,6 +924,7 @@ blockquote {
   position: inherit;
   text-transform: uppercase;
   padding: 15px;
+  display: inline-block;
 }
 
 .cta-animated {
