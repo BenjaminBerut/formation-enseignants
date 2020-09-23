@@ -916,6 +916,10 @@ blockquote {
   margin-bottom: 0;
 }
 
+
+ /* ça c'est le cta dans le menu */
+
+
 .cta {
   background-color: #fff;
   width: 150px;
@@ -941,6 +945,10 @@ blockquote {
       transform: scale(1);
   }
 }
+
+
+ /* ça c'est le bouton sous la baseline */
+
 
 .btn{
   font-family: inherit;
