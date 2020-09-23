@@ -918,7 +918,6 @@ blockquote {
 
 .cta {
   background-color: #fff;
-  color: #777 !important;
   width: 150px;
   border-radius: 100px;
   position: inherit;
@@ -943,8 +942,12 @@ blockquote {
   }
 }
 
-
-
+.btn{
+  position: fixed;
+  font-family: inherit;
+  margin-top: 20px;
+  margin-left: 60px;
+}
 
 .btn:link,
 .btn:visited {
@@ -954,7 +957,6 @@ blockquote {
     display: inline-block;
     border-radius: 100px;
     transition: all .2s;
-    position: absolute;
 }
 
 .btn:hover {
@@ -977,8 +979,8 @@ blockquote {
     height: 100%;
     width: 100%;
     border-radius: 100px;
-    top: 20px;
-    left: 60px;
+    top: 0px;
+    left: 0px;
     z-index: -1;
     transition: all .4s;
 }
