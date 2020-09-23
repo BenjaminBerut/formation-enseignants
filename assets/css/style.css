@@ -458,11 +458,6 @@ textarea.form-control {
   color: #fff;
 }
 
-.nav-cta{
-  color: pink
-  background-color: 
-}
-
 .hero-area {
   padding: 250px 0 200px;
   position: relative
@@ -922,8 +917,8 @@ blockquote {
 }
 
 
-.cta:link,
-.cta:visited {
+.cta-white:link,
+.cta-white:visited {
   text-decoration: none;
   padding: 15px 40px;
   display: inline-block;
@@ -932,12 +927,12 @@ blockquote {
   position: absolute;
 }
 
-.cta:hover {
+.cta-white:hover {
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-.cta:active {
+.cta-white:active {
   transform: translateY(-1px);
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
@@ -963,14 +958,24 @@ blockquote {
 
 .cta-white::after {
   background-color: #fff;
+  content: "";
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  border-radius: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  transition: all .4s;
 }
 
-.cta:hover::after {
+.cta-white:hover::after {
   transform: scaleX(1.4) scaleY(1.6);
   opacity: 0;
 }
 
-.cta-animated {
+.cta-white-animated {
   animation: moveInBottom 5s ease-out;
   animation-fill-mode: backwards;
 }
