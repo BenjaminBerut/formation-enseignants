@@ -924,7 +924,6 @@ blockquote {
 
 .cta:link,
 .cta:visited {
-  text-transform: uppercase;
   text-decoration: none;
   padding: 15px 40px;
   display: inline-block;
@@ -946,6 +945,7 @@ blockquote {
 .cta-white {
   background-color: #fff;
   color: #777;
+  width: 150px
 }
 
 .cta::after {
