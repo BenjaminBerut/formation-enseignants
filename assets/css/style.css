@@ -933,25 +933,7 @@ blockquote {
   width: 150px;
   border-radius: 100px;
   position: inherit;
-}
-
-.cta::after {
-  content: "";
-  display: inline-block;
-  height: 100%;
-  width: 100%;
-  border-radius: 100px;
-  position: inherit;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  transition: all .4s;
-}
-
-
-.cta:hover::after {
-  transform: scaleX(1.4) scaleY(1.6);
-  opacity: 0;
+  text-transform: uppercase;
 }
 
 .cta-animated {
