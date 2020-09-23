@@ -1,4 +1,4 @@
-baseURL = "https://krosskross.netlify.app"
+baseURL = "https://formationdesenseignants.netlify.app"
 languageCode = "fr-FR"
 summaryLength = "10"
 theme = "kross-hugo"
