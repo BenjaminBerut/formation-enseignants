@@ -969,7 +969,6 @@ blockquote {
 
 .btn-white {
     background-color: #fff;
-    color: #777;
 }
 
 .btn::after {
@@ -978,9 +977,8 @@ blockquote {
     height: 100%;
     width: 100%;
     border-radius: 100px;
-    position: absolute;
-    top: 0;
-    left: 0;
+    top: 20px;
+    left: 60px;
     z-index: -1;
     transition: all .4s;
 }
