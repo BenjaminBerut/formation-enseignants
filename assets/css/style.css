@@ -934,6 +934,7 @@ blockquote {
   border-radius: 100px;
   position: inherit;
   text-transform: uppercase;
+  padding: 15px;
 }
 
 .cta-animated {
