@@ -114,7 +114,7 @@ clients_logo_slider:
   enable: true
   item:
   - logo: images/cned.png
-    URL: images/cned.png
+    URL: ''
   - logo: images/clients-logo/etreprof.png
     URL: ''
   - logo: images/clients-logo/clemi.png
