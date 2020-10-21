@@ -113,6 +113,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: "/images/clients-logo/cnam.png"
+    URL: ''
   - logo: images/clients-logo/onisep.png
     URL: ''
   - logo: images/clients-logo/cned.png
