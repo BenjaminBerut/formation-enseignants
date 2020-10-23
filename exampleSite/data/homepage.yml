@@ -4,10 +4,9 @@ banner:
     <br>selon vos envies !
 about:
   enable: true
-  content: L’e-inspé vous propose des formations issues de toute une série de partenaires
-    et de sites que ce soit de l’Éducation nationale ou d’associations. Les parcours
-    de formation que vous trouverez ici vont chercher dans tout un ensemble de contenus
-    de partenaires pour vous assurer la formation la plus adaptée à votre besoin.
+  content: Trouvez votre façon de vous former. A votre rythme, selon vos disponibilités,
+    devant votre mobile ou votre ordinateur, seul ou accompagné, en formation initiale
+    et continue.
   button:
     enable: true
     label: A propos
