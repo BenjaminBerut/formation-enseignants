@@ -126,5 +126,5 @@ clients_logo_slider:
   - logo: images/clients-logo/magistere.png
     URL: ''
 blog:
-  enable: false
+  enable: true
   title: Blogs
