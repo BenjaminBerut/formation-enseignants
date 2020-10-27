@@ -2,7 +2,7 @@
 author = "Auteur"
 date = 2020-10-13T22:00:00Z
 description = "Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation."
-image = "/images/bulles-de-filtres.jpg"
+image = "/images/desinformation.jpg"
 image_webp = "/images/bulles-de-filtres.jpg"
 title = "Donner aux élèves les moyens de comprendre la désinformation"
 
@@ -13,15 +13,19 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 **Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation.**
 
-![](/images/bulles-de-filtres.jpg)
+![](/images/desinformation.jpg)
 
-## Vous avez 10 minutes, c'est parfait, vous avez deux heures tant mieux
+## 10 minutes pour comprendre la notion
 
-### 10 minutes pour comprendre la notion
+**Introduction :** A travers deux vidéos et une infographie, vous allez mieux comprendre les mécanismes de la désinformation, dans le cadre de la prévention primaire dans la lutte contre le complotisme et découvrir un moyen d’agir. **C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.**
 
-**Introduction :** A travers ces trois ressources complémentaires, vous allez mieux comprendre les mécanismes de la désinformation (vidéo 1), dans le cadre de la prévention primaire dans la lutte contre le complotisme (vidéo 2), et découvrir un moyen d’agir (infographie). **C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.**
+Introduction : Comprendre la notion de désinformation
 
-Suivre l'introduction
+## Le lien entre désinformation et complotisme
+
+Vous comprenez déjà bien les mécaniques de la désinformation et vous voulez déjà imaginer des pistes d'actions à mettre en oeuvre avec vos élèves ? C'est le moment d'approfondir et de passer du temps à écouter les experts du sujet.
+
+Approfondissement : Le lien entre désinformation et complotisme
 
 Si cette sensibilisation ne répond pas totalement à vos besoins, nous vous invitons à suivre le module d’approfondissement.
 
