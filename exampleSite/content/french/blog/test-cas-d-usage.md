@@ -7,6 +7,8 @@ image_webp = "/images/bulles-de-filtres.jpg"
 title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 +++
+# Quels sont les mécanismes de la désinformation ? 
+
 **Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation.**
 
 ![](/images/bulles-de-filtres.jpg)
