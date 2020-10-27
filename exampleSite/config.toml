@@ -6,7 +6,7 @@ title = "e-inspe"
 [[menu.main]]
 URL = "blog"
 name = "Formations"
-weight = "1"
+weight = "2"
 [[menu.main]]
 URL = "contact"
 name = "Je participe"
