@@ -4,7 +4,7 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "e-inspe"
 [[menu.main]]
-URL = "https://formationdesenseignants.netlify.app/blog/"
+URL = "blog"
 name = "Formations"
 weight = "2"
 [[menu.main]]
