@@ -21,7 +21,7 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 **Introduction**
 
-A travers deux vidéos et une infographie, vous allez mieux comprendre les mécanismes de la désinformation, dans le cadre de la prévention primaire dans la lutte contre le complotisme et découvrir un moyen d’agir. **C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.**
+A travers deux vidéos et une infographie, vous allez mieux comprendre les mécanismes de la désinformation, dans le cadre de la prévention primaire dans la lutte contre le complotisme et découvrir un moyen d’agir. C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.
 
 Introduction : Comprendre la notion de désinformation
 
