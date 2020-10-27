@@ -25,7 +25,7 @@ A travers deux vidéos et une infographie, vous allez mieux comprendre les méca
 
 Introduction : Comprendre la notion de désinformation
 
-## Niveau 2 :Le lien entre désinformation et complotisme
+## Niveau 2 : Le lien entre désinformation et complotisme
 
 **Approfondissement**
 
