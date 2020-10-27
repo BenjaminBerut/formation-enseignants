@@ -10,7 +10,7 @@ weight = "2"
 [[menu.main]]
 URL = "contact"
 name = "Je participe"
-weight = "1"
+weight = "2"
 [params]
 address = ""
 author = "e-inspe"
