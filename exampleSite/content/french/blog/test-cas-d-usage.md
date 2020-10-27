@@ -1,7 +1,7 @@
 +++
 author = "Auteur"
 date = 2020-10-13T22:00:00Z
-description = ""
+description = "Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation."
 image = "/images/clemi.png"
 image_webp = "/images/capture-d-ecran-2020-10-04-a-16-27-59.png"
 title = "Donner aux élèves les moyens de comprendre la désinformation"
