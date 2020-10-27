@@ -15,17 +15,23 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 ![](/images/desinformation.jpg)
 
-## 10 minutes pour comprendre la notion
+> _Sur l'e-inspé, c'est à vous de choisir le temps que vous souhaitez consacrer à une formation et comment vous avez envie de vous former. Que vous ayez quelques minutes pour comprendre une notion ou que vous vouliez monter un projet avec vos élèves, que vous soyez novice ou déjà expert, que vous ayez envie de tout faire seul ou de trouver un tuteur... c'est à vous de faire votre programme._
+
+## Niveau 1 : 10 minutes pour comprendre la notion
 
 **Introduction :** A travers deux vidéos et une infographie, vous allez mieux comprendre les mécanismes de la désinformation, dans le cadre de la prévention primaire dans la lutte contre le complotisme et découvrir un moyen d’agir. **C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.**
 
 Introduction : Comprendre la notion de désinformation
 
-## Le lien entre désinformation et complotisme
+## Niveau 2 :Le lien entre désinformation et complotisme
 
 Vous comprenez déjà bien les mécaniques de la désinformation et vous voulez déjà imaginer des pistes d'actions à mettre en oeuvre avec vos élèves ? C'est le moment d'approfondir et de passer du temps à écouter les experts du sujet.
 
 Approfondissement : Le lien entre désinformation et complotisme
+
+## Niveau 3 : C'est le moment d'agir en classe
+
+Vous comprenez le lien entre désinformation et complotisme, vous avez forger votre opinion sur la manière de construire un raisonnement face à la masse d'informations 
 
 Si cette sensibilisation ne répond pas totalement à vos besoins, nous vous invitons à suivre le module d’approfondissement.
 
