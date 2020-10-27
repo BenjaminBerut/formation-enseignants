@@ -13,7 +13,7 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 **Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation.**
 
-![](/images/desinformation.jpg)
+![](/images/bulles-de-filtres.jpg)
 
 > _Sur l'e-inspé, c'est à vous de choisir le temps que vous souhaitez consacrer à une formation et comment vous avez envie de vous former. Que vous ayez quelques minutes pour comprendre une notion ou que vous vouliez monter un projet avec vos élèves, que vous soyez novice ou déjà expert, que vous ayez envie de tout faire seul ou de trouver un tuteur... c'est à vous de faire votre programme._
 
