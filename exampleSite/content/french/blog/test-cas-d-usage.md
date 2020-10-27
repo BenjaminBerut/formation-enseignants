@@ -3,7 +3,7 @@ author = "Auteur"
 date = 2020-10-13T22:00:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/clemi.png"
 image_webp = ""
 title = "test - cas d'usage"
 
