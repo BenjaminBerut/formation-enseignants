@@ -9,7 +9,7 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 +++
 # Quels sont les mécanismes de la désinformation ?
 
-> Prévention primaire dans la lutte contre le complotisme
+> Prévention primaire dans la lutte contre le complotisme au collège et lycée.
 
 **Les élèves vont chaque jour être confronter à une masse d'informations qu'il est toujours difficile de traiter et de comprendre. Avec cette formation, vous pourrez leur donner les clés pour comprendre les mécaniques de la désinformation.**
 
@@ -31,7 +31,7 @@ Approfondissement : Le lien entre désinformation et complotisme
 
 ## Niveau 3 : C'est le moment d'agir en classe
 
-Vous comprenez le lien entre désinformation et complotisme, vous avez forger votre opinion sur la manière de construire un raisonnement face à la masse d'informations 
+Vous comprenez le lien entre désinformation et complotisme, vous avez forger votre opinion sur la manière de convaincre les élèves. 
 
 Si cette sensibilisation ne répond pas totalement à vos besoins, nous vous invitons à suivre le module d’approfondissement.
 
