@@ -43,5 +43,5 @@ Agir en classe : 3 exemples de séquences pour travailler avec les élèves auto
 
 > Aller plus loin - Deux pistes
 >
-> * [Découvrir le référentiel de compétences en EMI pour les enseignants]()
-> * [Trouver une formation Clémi en académie]()
+> * [Découvrir le référentiel de compétences en EMI pour les enseignants](https://www.clemi.fr/fileadmin/user_upload/Formation/Referentiel_CLEMI_final.pdf)
+> * [Trouver une formation Clémi en académie](https://www.clemi.fr/fr/formation/se-former-en-academie.html)
