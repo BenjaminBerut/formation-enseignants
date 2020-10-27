@@ -31,7 +31,7 @@ Approfondissement : Le lien entre désinformation et complotisme
 
 ## Niveau 3 : C'est le moment d'agir en classe
 
-Vous comprenez le lien entre désinformation et complotisme, vous avez forger votre opinion sur la manière de convaincre les élèves. 
+Vous comprenez le lien entre désinformation et complotisme, vous savez qui est l'abbé Barruel, vous êtes capables d'illustrer les _fake news_ d'aujourd'hui en expliquant la création du _Protocole des sages de Sion_ ?
 
 Si cette sensibilisation ne répond pas totalement à vos besoins, nous vous invitons à suivre le module d’approfondissement.
 
