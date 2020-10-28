@@ -1,7 +1,7 @@
 +++
 author = ""
 date = ""
-description = ""
+description = "Les différents avis d’experts, complémentaires, de cette page vont vous permettre de circonscrire le périmètre de la notion de désinformation, de ses liens avec le complotisme, dont l’approche peut être diverse et d’approfondir les moyens d’agir."
 image = ""
 image_webp = "/images/desinformation.jpg"
 title = "Approfondir : Le lien entre désinformation et complotisme"
