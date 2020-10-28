@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = "/images/progression.jpg"
 image_webp = "/images/bulles-de-filtres.jpg"
 title = "Comprendre les difficultés de lecture au cycle 2"
@@ -22,7 +21,7 @@ title = "Comprendre les difficultés de lecture au cycle 2"
 
 **Introduction**
 
-En 3 vidéos de 5 minutes, vous aurez une vision d'ensemble claire de la manière dont l'écrit trouve sa place au sein des programmes du cycle. 
+En 3 vidéos de 5 minutes, vous aurez une vision d'ensemble claire de la manière dont l'écrit trouve sa place au sein des programmes du cycle.
 
 Introduction : comprendre la place de l'écrit dans les programmes
 
@@ -34,6 +33,16 @@ En une heure, vous pourrez comprendre ce que la recherche nous apprend sur l'ent
 
 Approfondissement : les apports de la recherche sur l'entrée dans la lecture au cycle 2
 
-## Niveau 3 : Expérimenter des outils en classe et travailler en groupe
+## Niveau 3 : Expérimentez des outils en classe et travailler en groupe
 
 **Agir en classe**
+
+A partir des outils étudier au niveau 2, vous pourrez travailler en classe avec vos élèves et vous appuyer sur des lesson study ou des travaux de groupes animés par un mentor.
+
+Agir en classe : expérimenter des outils en classe et travailler en groupe
+
+## Niveau 4 : Validez votre expérience
+
+Cette partie du parcours vous permet de produire une fiche pratique sur l'outil que vous aurez choisi d'utiliser pour valider votre expérience.
+
+Valider votre expérience
