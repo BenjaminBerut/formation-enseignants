@@ -1,7 +1,7 @@
 +++
 author = ""
 date = ""
-description = ""
+description = "En deux vidéos et une rapide vous allez découvrir les mécaniques du complot et des fake news et déjà des premières pistes pour agir en classe."
 image = ""
 image_webp = "/images/desinformation.jpg"
 title = "Introduction : comprendre la notion de désinformation"
