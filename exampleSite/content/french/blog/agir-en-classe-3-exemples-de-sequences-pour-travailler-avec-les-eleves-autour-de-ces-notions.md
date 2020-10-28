@@ -1,7 +1,7 @@
 +++
 author = ""
 date = ""
-description = ""
+description = "Les ressources proposées ci-dessous peuvent être utilisées en classe et peuvent vous permettre de mettre en place des séquences pédagogiques traitant cette thématique."
 image = ""
 image_webp = "/images/desinformation.jpg"
 title = "Agir en classe : 3 exemples de séquences pour travailler avec les élèves autour de ces notions"
@@ -10,6 +10,8 @@ title = "Agir en classe : 3 exemples de séquences pour travailler avec les él�
 # Trois exemples de séquences pour travailler avec les élèves
 
 > Les ressources proposées ci-dessous peuvent être utilisées en classe et peuvent vous permettre de mettre en place des séquences pédagogiques traitant cette thématique.
+
+![](/images/bulles-de-filtres.jpg)
 
 ## Faites faire des affiches à vos élèves
 
@@ -23,4 +25,13 @@ Désinformation, mensonge, canular, propagande, la « fausse nouvelle » a été
 
 **Niveau cycle 3**
 
-En partant d'une rumeur sur des 
+En partant d'une rumeur sur des crocodiles échappés du zoo de Vincennes, les élèves sont amenés à décrypter les informations et à développer leur esprit critique.
+
+[Savoir détecter une fausse information](https://www.clemi.fr/fr/formation-declic/2-savoir-detecter-une-fausse-information.html)
+
+## Travailler avec d'autres enseignants
+
+Si vous souhaitez travailler avec d'autres enseignants sur ce sujet vous pouvez vous inscrire à une lesson study en ligne organisée et animée par des pairs ou, si vous souhaitez monter un projet pédagogique, vous inscrire à un groupe d'échange entre pairs animés par un référent du Clémi.
+
+* S'inscrire à une lesson study en ligne
+* Trouver un groupe de travail entre pairs
