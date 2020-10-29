@@ -10,7 +10,7 @@ weight = "1"
 [params]
 address = ""
 author = "e-inspe"
-copyright = "Un service canopé - 2020"
+copyright = "[Un service canopé - 2020](https://www.reseau-canope.fr/mentions-legales.html)"
 description = "Participez à changer la formation des enseignants !"
 email = ""
 google_analytics_id = ""
