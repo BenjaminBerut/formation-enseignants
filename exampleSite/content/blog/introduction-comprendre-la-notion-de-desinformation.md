@@ -39,5 +39,5 @@ Eviter le piège de la réfutation immédiate, accepter la contradiction et s'ar
 >
 > Après ces premières notions, vous pouvez soit :
 >
-> * niveau 2 : approfondir le lien entre désinformation et complotisme
-> * niveau 3 : trouver des pistes de travail en classe
+> * [niveau 2 : approfondir le lien entre désinformation et complotisme](https://formationdesenseignants.netlify.app/blog/approfondir-le-lien-entre-desinformation-et-complotisme/)
+> * [niveau 3 : trouver des pistes de travail en classe](https://formationdesenseignants.netlify.app/blog/agir-en-classe-3-exemples-de-sequences-pour-travailler-avec-les-eleves-autour-de-ces-notions/)
