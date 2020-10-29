@@ -23,7 +23,7 @@ title = "Donner aux élèves les moyens de comprendre la désinformation"
 
 A travers deux vidéos et une infographie, vous allez mieux comprendre les mécanismes de la désinformation, dans le cadre de la prévention primaire dans la lutte contre le complotisme et découvrir un moyen d’agir. C'est un premier moyen de comprendre la notion, à vous de voir ensuite si vous voulez approfondir.
 
-Introduction : Comprendre la notion de désinformation
+[Introduction : Comprendre la notion de désinformation](https://formationdesenseignants.netlify.app/blog/introduction-comprendre-la-notion-de-desinformation/)
 
 ## Niveau 2 : Le lien entre désinformation et complotisme
 
@@ -31,7 +31,7 @@ Introduction : Comprendre la notion de désinformation
 
 Vous comprenez déjà bien les mécaniques de la désinformation et vous voulez déjà imaginer des pistes d'actions à mettre en oeuvre avec vos élèves ? C'est le moment d'approfondir et de passer du temps à écouter les experts du sujet.
 
-Approfondissement : Le lien entre désinformation et complotisme
+[Approfondissement : Le lien entre désinformation et complotisme](https://formationdesenseignants.netlify.app/blog/approfondir-le-lien-entre-desinformation-et-complotisme/)
 
 ## Niveau 3 : C'est le moment d'agir en classe
 
