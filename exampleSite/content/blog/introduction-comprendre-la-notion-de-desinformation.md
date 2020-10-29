@@ -25,7 +25,7 @@ En un peu plus de 6 minutes, Rudy Reichstadt, le fondateur du site conspiracywat
 
 Comprendre en moins de 5 minutes la manière dont le complotisme fonctionne et construit une vision simpliste du monde où tous les événements sont, finalement, la responsabilité d'un seul groupe et où le doute n'est plus permis.
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9uDmY-aj64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Complot](http://img.youtube.com/vi/Z9uDmY-aj64/0.jpg)](http://www.youtube.com/watch?v=Z9uDmY-aj64 "Complot")
 
 ## Réagir face au complotisme en classe
 
