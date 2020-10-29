@@ -11,8 +11,6 @@ sections:
   label: Post (fr)
   create: documents
   match: "**/*"
-  templates:
-  - post
 - type: heading
   label: Author
 - type: directory
