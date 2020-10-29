@@ -125,6 +125,8 @@ clients_logo_slider:
     URL: ''
   - logo: images/clients-logo/magistere.png
     URL: ''
+
 blog:
   enable: true
-  title: Des premières formations à tester
+  title: "Des premières formations à tester"
+  # blog post comes from "content/blog" folder
