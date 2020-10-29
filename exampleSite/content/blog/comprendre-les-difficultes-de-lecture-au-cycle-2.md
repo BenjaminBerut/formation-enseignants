@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = "2020-10-13T22:00:00Z"
 description = ""
 image = "/images/progression.jpg"
 image_webp = "/images/bulles-de-filtres.jpg"
