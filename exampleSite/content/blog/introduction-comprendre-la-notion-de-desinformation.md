@@ -19,7 +19,7 @@ En un peu plus de 6 minutes, Rudy Reichstadt, le fondateur du site conspiracywat
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/QZi9NkDOoTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-    [![](http://img.youtube.com/vi/QZi9NkDOoTg/0.jpg)](http://www.youtube.com/watch?v=QZi9NkDOoTg "")
+[![Fake news](http://img.youtube.com/vi/QZi9NkDOoTg/0.jpg)](http://www.youtube.com/watch?v=QZi9NkDOoTg "Fake news")
 
 ## Tout savoir sur le complot
 
