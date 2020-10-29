@@ -1,6 +1,6 @@
 +++
 author = ""
-date = ""
+date = "2020-10-13T22:00:00Z"
 description = ""
 image = "/images/synlab.png"
 image_webp = "/images/synlab.png"
