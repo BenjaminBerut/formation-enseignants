@@ -26,3 +26,5 @@ fields:
   description: meta description
 pages:
 - exampleSite/content/blog/test-article-amandine.md
+- exampleSite/content/blog/la-gestotheque-de-la-gestion-de-classe.md
+
