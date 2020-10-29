@@ -16,8 +16,6 @@ title = "Introduction : comprendre la notion de désinformation"
 **Vidéo - 6min46**
 
 En un peu plus de 6 minutes, Rudy Reichstadt, le fondateur du site conspiracywatch présente les enjeux des Fake news et leur place dans la vie publique aujourd'hui.
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/QZi9NkDOoTg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
 [![Fake news](http://img.youtube.com/vi/QZi9NkDOoTg/0.jpg)](http://www.youtube.com/watch?v=QZi9NkDOoTg "Fake news")
 
