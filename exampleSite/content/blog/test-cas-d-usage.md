@@ -39,4 +39,4 @@ Approfondissement : Le lien entre désinformation et complotisme
 
 Vous comprenez le lien entre désinformation et complotisme, vous savez qui est l'abbé Barruel, vous êtes capables d'illustrer les _fake news_ d'aujourd'hui en expliquant la création du _Protocole des sages de Sion_, vous êtes à jour sur les Reptiliens ? Voilà des pistes de séquences pédagogiques à mettre en place avec vos élèves.
 
-<a href="https://formationdesenseignants.netlify.app/blog/agir-en-classe-3-exemples-de-sequences-pour-travailler-avec-les-eleves-autour-de-ces-notions>Agir en classe : 3 exemples de séquences pour travailler avec les élèves autour de ces notions</a>
+<a href="https://formationdesenseignants.netlify.app/blog/agir-en-classe-3-exemples-de-sequences-pour-travailler-avec-les-eleves-autour-de-ces-notions> Agir en classe : 3 exemples de séquences pour travailler avec les élèves autour de ces notions </a>
