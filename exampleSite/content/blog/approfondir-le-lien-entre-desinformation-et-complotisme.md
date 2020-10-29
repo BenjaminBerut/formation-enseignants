@@ -57,5 +57,5 @@ Par caméras interposées, le magazine Square idée d'Arte fait discuter Rudy Re
 >
 > Maintenant que vous avez une compréhension solide l'articulation entre désinformation, complotisme et fake news
 >
-> * niveau 3 : trouver des pistes de travail en classe
+> * [niveau 3 : trouver des pistes de travail en classe](https://formationdesenseignants.netlify.app/blog/agir-en-classe-3-exemples-de-sequences-pour-travailler-avec-les-eleves-autour-de-ces-notions/)
 > * poser des questions à la chatbox et échanger avec un expert Clémi sur le sujet
