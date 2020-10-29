@@ -22,4 +22,6 @@ Chaque geste est présenté via
 
 Les vidéos courtes mettent en avant un pair qui partage ses conseils et propose une mise en œuvre concrète de nouvelles pratiques. Les fiches outils et l'infographique permettent une explicitation du geste alors que le podcast permet d'approfondir la thématique par le regard entre pairs.
 
+## Co-responsabiliser les élèves
+
 [![Tuto](http://img.youtube.com/vi/lhsuIYz5FGc/0.jpg)](http://www.youtube.com/watch?v=lhsuIYz5FGc "Tuto")
