@@ -14,7 +14,7 @@ weight = "1"
 [params]
 address = ""
 author = "e-inspe"
-copyright = "Un service betagouv - 2020"
+copyright = "Un service canopé - 2020"
 description = "Participez à changer la formation des enseignants !"
 email = ""
 google_analytics_id = ""
