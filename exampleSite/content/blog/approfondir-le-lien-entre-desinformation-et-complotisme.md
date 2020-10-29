@@ -51,7 +51,7 @@ Inspecteur général d'histoire, Jérôme Grondeux souligne comment rumeur, cons
 
 Par caméras interposées, le magazine Square idée d'Arte fait discuter Rudy Reichstad fondateur de Conspiracywatch et Emmanuelle Damblon professeure de rhétorique, de théories de l'argumentation et l'histoire des idées linguistiques à l’université libre de Bruxelles. La question est alors de savoir quel regard porter sur le complotisme entre vision politique et approche théorique.
 
-    <iframe allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="100%" height="100%" src="https://www.arte.tv/player/v5/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv2%2Fconfig%2Ffr%2F093875-009-A&lang=fr&autoplay=false&mute=0"></iframe>
+[Le complotisme miroir du siècle](https://www.arte.tv/fr/videos/093875-009-A/square-idee/) 
 
 > **Et ensuite ?**
 >
