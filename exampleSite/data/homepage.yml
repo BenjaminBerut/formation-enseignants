@@ -125,6 +125,8 @@ clients_logo_slider:
     URL: ''
   - logo: images/clients-logo/magistere.png
     URL: ''
+  - logo: images/clients-logo/FEI.png
+    URL: ''
 
 blog:
   enable: true
