@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = "/images/synlab.png"
 image_webp = "/images/synlab.png"
 title = "La gestothèque de la gestion de classe"
