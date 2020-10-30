@@ -13,8 +13,6 @@ title = "Comprendre les difficultés de lecture au cycle 2"
 
 **Au cycle 2, les élèves peuvent rencontrer plusieurs difficultés pour apprendre à lire. Ce parcours a pour objectif, via la découverte et l'expérimentation d'outils pour entrer dans l'écrit de vous donner des pistes pour accompagner vos élèves**
 
-![](/images/progression.jpg)
-
 > _Sur l'e-inspé, c'est à vous de choisir le temps que vous souhaitez consacrer à une formation et comment vous avez envie de vous former. Que vous ayez quelques minutes pour comprendre une notion ou que vous vouliez monter un projet avec vos élèves, que vous soyez novice ou déjà expert, que vous ayez envie de tout faire seul ou de trouver un tuteur... c'est à vous de faire votre programme._
 
 ## Niveau 1 : La place de l'écrit dans les programmes du cycle 2
