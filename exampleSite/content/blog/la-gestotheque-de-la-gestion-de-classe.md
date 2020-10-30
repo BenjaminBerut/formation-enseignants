@@ -46,11 +46,13 @@ Principe 3 : Montrer le résultat attendu (3:00)
 ## Fiches outils
 ### Stopper les bavardages
 Ne pas parler ne peut pas signifier exactement la même chose en fonction du contexte. Si vos élèves parlent plus que vous ne le souhaiteriez, il y a de fotes chances que vous n'ayez pas les mêmes définitions de silence et de bruit" - Auteure : Nathalie Dreyfus, pilote pédagogique chez EtreProf
+
 [Fiche outil : stopper les bavardages](https://backend.etreprof.fr/files/FichesOutils/_200709_FICHE_OUTIL_STOPPER_LES_BAVARDAGES.pdf)
 
 ## Podcast
 ### Motiver les élèves
 Lorsqu’on demande aux enseignants quelles sont leurs plus grandes difficultés, une question revient régulièrement : comment motiver les élèves et maintenir leur motivation ? Que faire pour motiver ces élèves que l’on n’arrive pas à engager, et ce, quoi que l’on fasse. Des élèves qui semblent comme hors d’atteinte, sans envie, sans intérêt pour quelque travail que ce soit.
+
 [Podcast - Motiver les élèves](https://soundcloud.com/campus-etreprof/etreprof-le-podcast-episode-3)
 
 ## Infographie
