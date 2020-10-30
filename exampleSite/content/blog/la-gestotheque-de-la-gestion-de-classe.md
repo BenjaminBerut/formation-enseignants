@@ -57,4 +57,4 @@ Lorsqu’on demande aux enseignants quelles sont leurs plus grandes difficultés
 
 ## Infographie
 #### Gérer ma classe au quotidien
-![image](https://user-images.githubusercontent.com/66739117/97670988-ab31b200-1a87-11eb-90bc-d6054b28eed8.png)
+![image](https://user-images.githubusercontent.com/66739117/97671303-4460c880-1a88-11eb-9c65-90919de657d6.png)
